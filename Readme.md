@@ -1,10 +1,12 @@
-# Tic Tac Toe Game
 
+https://github.com/theakash04/ticTacToe-WebGame/assets/146631447/7048ef10-1684-4a91-a008-a2aac2fb6776
+# Tic Tac Toe Game
 This simple web-based game is built using HTML, CSS, and JavaScript. It is a two-player game that requires two participants to play. The game features a reset button to start a new round and dynamically displays the winner's name as "X" or "O" on the screen.
 
 ### [Play Now!]()
+https://github.com/theakash04/ticTacToe-WebGame/assets/146631447/e74e0656-ee9f-4170-864b-6a13ad2f714f
 
-Uploading gamePreview.mp4…
+
 
 ## Game Rules
 - The game is played on a 3x3 grid.
@@ -23,7 +25,11 @@ Uploading gamePreview.mp4…
 
 - Dynamic display of the winner's name.
 
-- Reset button to start a new round.
+- Reset 
+
+https://github.com/theakash04/ticTacToe-WebGame/assets/146631447/4c29a5fe-25b1-4fc6-8523-2c932160f485
+
+button to start a new round.
 
 
 
