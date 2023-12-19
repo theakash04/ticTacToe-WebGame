@@ -1,7 +1,7 @@
 # Tic Tac Toe Game
 This simple web-based game is built using HTML, CSS, and JavaScript. It is a two-player game that requires two participants to play. The game features a reset button to start a new round and dynamically displays the winner's name as "X" or "O" on the screen.
 
-### [Play Now!]()
+### [Play Now!](https://tic-tac-toe-web-game-sigma.vercel.app/)
 https://github.com/theakash04/ticTacToe-WebGame/assets/146631447/e74e0656-ee9f-4170-864b-6a13ad2f714f
 
 
