@@ -1,0 +1,68 @@
+main {
+  width: 70vmin;
+  height: 65vmin;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  column-gap: 8px;
+  margin-top: 40px;
+}
+
+.gameBox {
+  width: 22vmin;
+  height: 20vmin;
+  border: none;
+  cursor: pointer;
+  box-shadow: 0 0 5px #00000038;
+  -webkit-tap-highlight-color: transparent;
+}
+
+.gameBox {
+  font-size: 6rem;
+  display: flex;
+  font-weight: 600;
+  border-radius: 10px;
+  align-items: center;
+  justify-content: center;
+  line-height: 0;
+  background-color: #fbf6ee;
+  color: #ff1e1e;
+}
+
+.resetGame {
+  width: 20%;
+  height: 55px;
+  margin-top: 20px;
+  border: none;
+  background-color: #200e3a;
+  color: #fff;
+  font-weight: 500;
+  font-size: 1rem;
+  border-radius: 7px;
+  cursor: pointer;
+  outline: none;
+  -webkit-tap-highlight-color: transparent;
+
+}
+
+.resetGame:Active{
+  background-color: #fff;
+  color: #200e3a;
+}
+
+
+@media (max-width: 400px) {
+  main {
+    width: 90vmin;
+  }
+  .resetGame {
+    width: 80%;
+    height: 45px;
+  }
+}
+@media (max-width: 840px) {
+  .resetGame {
+    width: 50%;
+  }
+}

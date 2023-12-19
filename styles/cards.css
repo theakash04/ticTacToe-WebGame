@@ -1,0 +1,120 @@
+/* Winner looser */
+.winnerScreen {
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: #55e6c1;
+  font-family: Poppins;
+  width: 100%;
+  bottom: 0;
+  top: 0;
+}
+.winnerScreen p {
+  font-size: 3rem;
+  font-weight: 700;
+  color: #161a30;
+}
+.winnerScreen h1 {
+  font-size: 7rem;
+  font-weight: 700;
+  color: #161a30;
+}
+.winnerScreen button {
+  background-color: #161a30;
+  color: #fff;
+  font-weight: 500;
+  border: none;
+  width: 30%;
+  font-size: 2rem;
+  height: 70px;
+  border-radius: 7px;
+  cursor: pointer;
+  margin: 50px 0;;
+  -webkit-tap-highlight-color: transparent;
+}
+
+
+.hide{
+  display: none;
+}
+
+
+
+
+
+
+
+
+
+@media (max-width: 900px) {
+  .winnerScreen button {
+    width: 80%;
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .Warning{
+  position: absolute;
+  display: none;
+  width: 95%;
+  align-items: center;
+  justify-content: center;
+  line-height: 0;
+  height: 90px;
+  font-size: 3rem;
+  background-color: red;
+  font-family: Roboto, Poppins;
+  font-weight: 500;
+  box-shadow: 0 0 100px red;
+  color: #a2a2a2;
+  animation-name: shake;
+  animation-duration: 0.2s;
+  animation-iteration-count: 3;
+  animation-timing-function: cubic-bezier(0.23, 1, 0.320, 1);
+}
+@keyframes shake {
+  0% { 
+    transform: translateX(0%);
+  } 
+
+  25% { 
+    transform: translateX(10%); 
+  } 
+
+  50% { 
+    transform: translateX(0%);
+  } 
+
+  75% { 
+    transform: translateX(-10%);
+  } 
+
+  100% { 
+    transform: translateX(0%);
+  } 
+} */
