@@ -4,6 +4,8 @@ This simple web-based game is built using HTML, CSS, and JavaScript. It is a two
 
 ### [Play Now!]()
 
+Uploading gamePreview.mp4…
+
 ## Game Rules
 - The game is played on a 3x3 grid.
 
